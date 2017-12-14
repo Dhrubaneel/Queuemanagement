@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">QueueManagement</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="login_button">Login</string>
+    <string name="booking_button">Book</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="registration">New User</string>
+    <string name="welcome">Welcome!</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="my_bookings">Appointment History</string>
+    <string name="search_hint">Search Doctor</string>
+    <string name="search_date">Date</string>
+    <string name="visit_date_heading">Available Doctors on:</string>
+    <string name="visiting_doc">Doctor Name:</string>
+    <string name="doc_specialization">Speciality:</string>
+    <string name="doc_reg">Reg No:</string>
+    <string name="doc_email">Email:</string>
+    <string name="doc_name">Name:</string>
+    <string name="doc_contact">Contact:</string>
+    <string name="doc_degree">Degree:</string>
+    <string name="doc_age">Age:</string>
+    <string name="doc_gender">Gender:</string>
+    <string name="chem_details">Chamber Details</string>
+    <string name="visiting_cham">Chamber Name:</string>
+    <string name="visiting_date">Visiting Date:</string>
+    <string name="visiting_time">Visiting Time:</string>
+    <string name="cnf_booking">Confirm Booking</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="noDoctor_found">No doctor available.</string>
+    <string name="noDoc_details_found">No chamber details available.</string>
+    <string name="noSlots_found">No slot available.</string>
+    <string name="noHistory_found">No history available.</string>
+    <string name="user_name">User Name:</string>
+    <string name="user_name_placeholder">User Name</string>
+    <string-array name="role_menu">
+        <item>Doctor</item>
+        <item>Patient</item>
+    </string-array>
+    <string name="user_type">User Type:</string>
+
+    <string name="formvalidator_empty">Field is mandatory</string>
+    <string name="spinnerValue_error">Please select a value</string>
+</resources>
